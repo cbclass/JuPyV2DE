@@ -10,10 +10,6 @@ part of the JuPy Project
 Original Version of the create_multipleChoice_widget() seems to be from: 
     
  https://github.com/dingandrew/Zumi-Python-Lessons/blob/master/Quiz_Generator.py   
-
-# Das JuPy Python Tutorial der EAH Jena (www.eah-jena.de) ist lizenziert unter einer
-# Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
 """
 
 
